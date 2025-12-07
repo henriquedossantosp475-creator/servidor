@@ -12,8 +12,9 @@ Server Possui LoginTo, Use "/register (senha) (confirmar senha) " E depois (quan
 Tem /tpa /tpaaccept /tpadeny /sethome /home
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tem Plugin De "Tag"
--------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Meu Discord: snoxzx_ , Estou no servidor Do SSN.gg Se Não Estiver Dando pra Entrar, Fale Comigo Pelo Discord Para Eu ligar.
-------------------
+O Servidor Só Fica Ligado Bastante Tempo Nos Sabádos E Sextas E nas ferias ( Não aguento a Minha Sala Na escola) Pois E quando Eu Posso Ficar Até Tarde No Pc. (isso Se Não Bater As Horas Mensais Do Github Ja Que O Servidor E Hospedado No github Se o GitHub Tiver limite, Creditos do Cara que fez o Tutorial:https://www.youtube.com/@ManoshzDev, (Tutorial: https://www.youtube.com/watch?v=TvafbghU5gw&t=846s.)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Dono: Zephyrion1 
 -------------------
