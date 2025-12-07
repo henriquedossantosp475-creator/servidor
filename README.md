@@ -1,6 +1,6 @@
 # Servidor
 ----------------------------
-Servidor Minecraft De Pedro.
+Servidor Minecraft De Zephyrion1.
 ----------------------------------------------------
 IP Do Meu Servidor: categories-styles.gl.joinmc.link
 -----------------------------------------------------------
