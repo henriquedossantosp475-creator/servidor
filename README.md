@@ -13,5 +13,7 @@ Tem /tpa /tpaaccept /tpadeny /sethome /home
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tem Plugin De "Tag"
 -------------------
+Meu Discord: snoxzx_ , Estou no servidor Do SSN.gg Se Não Estiver Dando pra Entrar, Fale Comigo Pelo Discord Para Eu ligar.
+------------------
 Dono: Zephyrion1 
 -------------------
